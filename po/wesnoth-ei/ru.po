@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-ei\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-08-28 00:46+0300\n"
+"PO-Revision-Date: 2024-08-28 02:04+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -1206,6 +1206,9 @@ msgid ""
 "clambered out of the dingy cave. The lush Estmark hills filled the horizon "
 "in all directions."
 msgstr ""
+"Гведли и его люди вздохнули с облегчением, выбравшись из мрачной пещеры на"
+" белый свет. Вокруг, куда ни посмотри, до горизонта простирались пышные холмы"
+" Эстмарка."
 
 #. [side]: type=Dark Sorcerer, id=Mal-Skraat
 #. [side]: type=Dark Sorcerer, id=Mal-Skraat, gender=male
@@ -1234,28 +1237,29 @@ msgstr "Мал-Каллат"
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:160
 msgid "To travel northwest, defeat Mal-Skraat. <i>(easy)</i>"
 msgstr ""
+"Чтобы пройти на северо-запад, нужно победить Мал-Скраата <i>(проще)</i>"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:165
 msgid "To travel east, defeat Mal-Kallat. <i>(normal)</i>"
-msgstr ""
+msgstr "Чтобы пройти на восток, нужно победить Мал-Каллата <i>(сложнее)</i>"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:207
 msgid "Quick, I must collapse the tunnels behind us."
-msgstr ""
+msgstr "Скорее, мне нужно завалить тоннель за нами."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:236
 msgid ""
 "Excellent, we have swiftly escaped the tunnels, and there is no sign of "
 "pursuit."
-msgstr ""
+msgstr "Отлично. Мы успели пробежать тоннель и я не вижу признаков погони."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:244
 msgid "It’s a relief to once again breathe the fresh air. Where are we now?"
-msgstr ""
+msgstr "Какое облегчение — снова оказаться на свежем воздухе. А где мы?"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:248
@@ -1264,6 +1268,9 @@ msgid ""
 "east and west. I am unsure which path leads us the swiftest towards Wesnoth, "
 "but we certainly cannot stay here."
 msgstr ""
+"Холмы Эстмарка. Должно быть, горная дорога, на которой мы стоим, идёт на"
+" запад и на восток. Не знаю, какой путь нас приведёт в Веснот быстрее, но"
+" уверен, что задерживаться здесь нельзя."
 
 #. [message]: speaker=Mal-Kallat
 #. sister talking to younger brother
@@ -1272,6 +1279,8 @@ msgid ""
 "What are these soldiers doing here? The vanguard must not have done a "
 "thorough job of cleaning up..."
 msgstr ""
+"Что за солдаты, что они здесь делают? Похоже, авангард провёл зачистку не"
+" слишком тщательно..."
 
 #. [message]: speaker=Mal-Skraat
 #. brother talking to older sister
@@ -1280,6 +1289,8 @@ msgid ""
 "Don’t be scared, Kala. Look at how haggard they are! I bet the new recruit "
 "can handle them by himself."
 msgstr ""
+"Не бойся, Кала. Посмотри, как они измучены. Бьюсь об заклад, что с ними"
+" справятся и новобранцы."
 
 #. [message]: speaker=Mal-Tar
 #. Dacyn and Gweddry are going to do this during turn 1, before he even gets a chance to recruit
@@ -1291,7 +1302,7 @@ msgstr "Нет!!! Они убьют меня!"
 #. talking to Mal-Tar
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:268
 msgid "We can always bring you back if you die."
-msgstr ""
+msgstr "Даже если и убьют, мы сможем возвратить тебя обратно."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:281
@@ -1300,6 +1311,9 @@ msgid ""
 "armies while in the tunnel. We must kill either of the dark sorcerers and "
 "escape towards Wesnoth."
 msgstr ""
+"Думаю, это арьергард армии нежити. Похоже, под землёй мы пересекли все"
+" порядки войска мёртвых. Сейчас нам нужно победить любого из тёмных магов и"
+" скорей бежать в Веснот."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:285
@@ -1307,17 +1321,19 @@ msgid ""
 "This is a true invasion then? These necromancers mean to conquer Wesnoth "
 "itself?"
 msgstr ""
+"Неужто это полноценное вторжение? И эти некроманты собрались завоёвывать"
+" Веснот?"
 
 #. [message]: speaker=Dacyn
 #. "their leader" being Mal-Ravanal, who's neither male nor female
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:290
 msgid "Yes. I have history with their leader."
-msgstr ""
+msgstr "Да. У меня была одна история с их предводителем."
 
 #. [message]: speaker=Mal-Tar
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:313
 msgid "I... I actually did it!"
-msgstr ""
+msgstr "Я... Я это сделал!"
 
 #. [message]: speaker=Mal-Skraat
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:317
@@ -1325,22 +1341,23 @@ msgid ""
 "Well well, I’m impressed! Perhaps this apprenticeship has not been wasted on "
 "you after all."
 msgstr ""
+"Ну что ж, я впечатлён. Похоже, ученичество не выветрилось у тебя из головы."
 
 #. [message]: speaker=Mal-Kallat
 #. star wars reference
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:322
 msgid "We will watch your career with great interest..."
-msgstr ""
+msgstr "За твоим развитием мы будем наблюдать с немалым интересом..."
 
 #. [message]: speaker=Mal-Tar
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:336
 msgid "Wait, please, not like this!"
-msgstr ""
+msgstr "Постойте, умоляю, только не это!"
 
 #. [message]: speaker=Mal-Skraat
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:351
 msgid "I told him he should have studied harder."
-msgstr ""
+msgstr "Я говорил ему: \"учиться надо лучше\"."
 
 #. [message]: speaker=Mal-Kallat
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:355
@@ -1348,11 +1365,14 @@ msgid ""
 "I wanted to avoid as much battle as I could, but it seems like we have no "
 "choice..."
 msgstr ""
+"Как я хотела бы не ввязываться в драки, пока это возможно, но выбора у нас,"
+" похоже, нет..."
 
 #. [message]: speaker=Mal-Kallat
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:367
 msgid "Skrai, no!! Cursed Wesnothians, he was my precious little brother..."
 msgstr ""
+"Скраи, нет!!! Проклятые веснотцы, он был моим любимым младшим братцем..."
 
 #. [message]: speaker=Mal-Skraat
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:388
@@ -1360,11 +1380,13 @@ msgid ""
 "Kala, no!! Curse you Wesnothians! You may have killed my sister, but I will "
 "chase you east and take my revenge!"
 msgstr ""
+"Кала, нет!!! Веснотцы, будьте прокляты! Пусть вы убили мою сестру, но я"
+" последую за вами на восток и отомщу!"
 
 #. [message]: speaker=Mal-Tar
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:418
 msgid "... wait, what just happened? Why am I still alive?"
-msgstr ""
+msgstr "... Стойте, что произошло? Я снова жив?"
 
 #. [scenario]: id=04a_An_Elven_Interlude
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:8
