@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-ei\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-08-27 02:00+0300\n"
+"PO-Revision-Date: 2024-08-28 00:46+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -913,6 +913,9 @@ msgid ""
 "Screams and shouts echoed across the surface as Gweddry rushed his remaining "
 "men into the roughly hewn tunnel. A foul stench wafted up from below..."
 msgstr ""
+"Крики и вопли разнеслись окрест, когда Гведдри вместе с оставшимися бойцами"
+" устремился в грубо высеченный тоннель. Снизу потянуло отвратительным"
+" смрадом..."
 
 #. [side]: type=Dwarvish Steelclad, id=Knutan
 #. [side]: type=Dwarvish Lord, id=Pelathsil
@@ -929,17 +932,17 @@ msgstr "Кнутан"
 #. [side]: type=Dwarvish Steelclad, id=Knutan
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:76
 msgid "Pelmaithodor"
-msgstr ""
+msgstr "Пельмайтодор"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:86
 msgid "Duduril"
-msgstr ""
+msgstr "Дудурил"
 
 #. [side]: type=Troll, id=Kabak
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:110
 msgid "Trolls"
-msgstr ""
+msgstr "Тролли"
 
 #. [side]: type=Troll, id=Kabak
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:114
@@ -948,16 +951,15 @@ msgstr "Кабак"
 
 #. [side]: type=Troll, id=Kabak
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:128
-#, fuzzy
 #| msgid "Nafga"
 msgid "Nag"
-msgstr "Нафга"
+msgstr "Наг"
 
 #. [side]: type=Troll, id=Kabak
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:136
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:146
 msgid "Hur"
-msgstr ""
+msgstr "Хур"
 
 #. [then]
 #. [modify_unit]
@@ -970,17 +972,15 @@ msgstr "Мал-Бакрал"
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:222
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:504
-#, fuzzy
 #| msgid "Move Gweddry to the tunnel exit"
 msgid "Move any unit to the tunnel exit"
-msgstr "Отправьте Гведдри к выходу из туннеля"
+msgstr "Довести любой отряд до выхода из тоннеля"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:244
-#, fuzzy
 #| msgid "Where are we? I can’t see where we are going."
 msgid "Where are we? I can hardly see my own nose."
-msgstr "Где мы? Я не вижу, куда мы идём."
+msgstr "Где мы? Я не вижу дальше собственного носа."
 
 #. [message]: speaker=Dacyn
 #. "We" is not just Gweddry and Dacyn, but also all survivors from S01
@@ -989,20 +989,21 @@ msgid ""
 "We are in a tunnel under the outpost. Smugglers originally dug it to sneak "
 "behind Wesnoth’s patrols. I believe it to be currently inhabited by trolls."
 msgstr ""
+"Мы в тоннеле под заставой. Его когда-то вырыли контрабандисты, чтобы"
+" скрываться от веснотских патрулей. Подозреваю, что сейчас здесь поселились"
+" тролли."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:305
-#, fuzzy
 #| msgid "We must make haste to escape before the undead catch up."
 msgid "We must make haste to escape before the undead catch us."
-msgstr "Поспешим, нам нужно уходить быстро — нежить наверняка пойдёт за нами."
+msgstr "Нам нужно скорее бежать, чтобы нежить нас не схватила."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:309
-#, fuzzy
 #| msgid "Wait, before we go anywhere — who were those undead?"
 msgid "Wait, before we go anywhere — who were those necromancers?"
-msgstr "Подожди, пока мы не пошли — кто эти мертвецы?"
+msgstr "Подожди. Пока мы не ушли: что это за некроманты?"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:313
@@ -1011,6 +1012,10 @@ msgid ""
 "much too powerful for us; perhaps too powerful for all of Wesnoth. We must "
 "flee while I consider how to defeat them."
 msgstr ""
+"Ты серьёзно считаешь, что сейчас самое время это выяснять? Достаточно знать,"
+" что они представляют собой войско, слишком сильное для нас. Возможно,"
+" слишком сильное для кого угодно в Весноте. Мы должны убегать, пока я не"
+" придумаю, как с ними справиться."
 
 #. [message]: speaker=unit
 #. speaker is a dwarf
@@ -1020,14 +1025,14 @@ msgstr "Кто идёт?"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:336
-#, fuzzy
 #| msgid ""
 #| "We are soldiers of the King of Wesnoth. Will you help us fight these "
 #| "trolls?"
 msgid ""
 "We are soldiers of the King of Wesnoth. Make way, or help us get past these "
 "trolls."
-msgstr "Мы солдаты веснотской короны. Поможете нам побороть этих троллей?"
+msgstr ""
+"Мы солдаты короля Веснота. Пропустите нас или помогите обойти этих троллей."
 
 #. [message]: speaker=Knutan
 #. in plain English, "Yes, we'll help anyone quarreling with the trolls. But what are you doing down here?"
@@ -1036,6 +1041,7 @@ msgid ""
 "Aye, we’ll help anyone quarrelin’ wi’ them trolls. But what be ye doing down "
 "here?"
 msgstr ""
+"Ну, мы подсобим любому, кто бодается с троллями. А что вы тут внизу забыли?"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:349
@@ -1043,11 +1049,12 @@ msgid ""
 "Undead are pursuing us, purging the land of all that lives. You should join "
 "us and flee!"
 msgstr ""
+"За нами гонятся мертвецы. Они стирают с лица земли всё живое. Вам лучше"
+" бежать вместе с нами!"
 
 #. [message]: speaker=Knutan
 #. "My clan has lived in these caves for nearly a century. We'll not be scattered now by some sacks of bones"
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:354
-#, fuzzy
 #| msgid ""
 #| "My clan ha’ lived in these caves for centuries. We’ll no’ be scattered "
 #| "now by a few undead."
@@ -1055,12 +1062,11 @@ msgid ""
 "My clan ha’ lived in these caves fer near a century. We’ll no’ be scattered "
 "now by some sacks o’ bones."
 msgstr ""
-"Мой клан жил в этих пещерах на протяжении нескольких веков. И мы не уйдём "
-"отсюда из-за каких-то там мертвецов."
+"Мой клан живёт в этих пещерах, наверно, с век. Мы не пустимся врассыпуху"
+" из-за каких-то там мешков с костями."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:358
-#, fuzzy
 #| msgid ""
 #| "Very well. The best of luck in your battle. Gweddry, we may be able to "
 #| "avoid the bulk of the trolls by going through the dwarves’ tunnel."
@@ -1069,44 +1075,43 @@ msgid ""
 "of the trolls by going through the dwarves’ tunnel. I doubt they will need "
 "it much longer."
 msgstr ""
-"Что ж, как вам угодно. Желаем вам удачи в этом бою. Гведдри, возможно, нам "
-"получится избежать основную часть троллей, если мы вместо этого пройдём "
-"через гномий проход."
+"Да, уверен, что всё будет хорошо. Гведдри, возможно нам удастся избежать"
+" столкновения с основной массой троллей, если мы пройдём тоннелями гномов. Я"
+" сомневаюсь, что они им ещё долго будут нужны."
 
 #. [message]: speaker=Duduril
 #. speaker is a dwarf, currently alone
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:376
 msgid "Humans! What be ye doin’ in our caves?"
-msgstr ""
+msgstr "Люди! Вы чё забыли тут в пещерах?"
 
 #. [message]: speaker=second_unit
 #. "you" meaning a single dwarf
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:381
 msgid "A horde of undead is pursuing us! You should come with us and escape."
 msgstr ""
+"За нами гонится орда оживших мертвецов! Тебе лучше спасаться вместе с нами."
 
 #. [message]: speaker=Duduril
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:385
 msgid "Thursagan’s beard! I’ve got to go help the others!"
-msgstr ""
+msgstr "Турсаганова брада! Мне нужно бежать на помощь нашим!"
 
 #. [message]: speaker=unit
 #. "troll treasure hole, keep out"
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:408
-#, fuzzy
 #| msgid "TROL TREZZUR HOLE: KEEP OWT"
 msgid "TROL TREZZUR HOL: KEIP OWT"
 msgstr "САКРОВИЩНИЦА ДЫРЫ ТРОЛЕЙ: НИВХАДИТЬ"
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:427
-#, fuzzy
 #| msgid ""
 #| "It seems these trolls were hiding some gold. I think I can count fifty "
 #| "gold pieces!"
 msgid "It seems these trolls were hiding some gold. I count fifty gold pieces!"
 msgstr ""
-"Похоже, эти тролли прятали здесь золото. Кажется, я насчитал 50 золотых "
+"Похоже, тролли прятали здесь золото. Я насчитал пятьдесят золотых "
 "монет!"
 
 #. [message]: speaker=Dacyn
@@ -1115,17 +1120,17 @@ msgid ""
 "I recognize the enchantment on that quiver. How did trolls come to possess "
 "such an artifact?"
 msgstr ""
+"Я узнаю чары, наложенные на этот колчан. Как, интересно, тролли раздобыли"
+" этот артефакт?"
 
 #. [message]: speaker=Mel Guthrak
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:493
-#, fuzzy
 #| msgid "We have found you, fleshbag! Prepare to die!"
 msgid "I have found your hiding spot, fleshbag! Prepare to die!"
-msgstr "Мы нашли тебя, мешок мяса! Готовься к смерти!"
+msgstr "Вот я и нашёл тебя, мешок с мясом! Готовься к смерти!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:497
-#, fuzzy
 #| msgid ""
 #| "They follow us... we must escape through this tunnel. That is "
 #| "unfortunate, for it will take us into the Estmark hills, beyond the "
@@ -1136,34 +1141,36 @@ msgid ""
 "into the Estmark hills, beyond the borders of Wesnoth. But it is the only "
 "option."
 msgstr ""
-"Они пустились за нами в погоню... мы должны выбраться из этого тоннеля. "
-"Кажется, он ведёт на восток. Это плохо — он уведёт нас в Эстмаркские холмы, "
-"за границы Веснота. Но выбора у нас нет."
+"Слишком самодовольный тон для того, кто нашёл уже открытый ход. Гведдри, нам"
+" нужно бежать через восточный выход из этого тоннеля. К сожалению, мы выйдем"
+" из него в холмы Эстмарка за границами Веснота. Но вариантов больше нет."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:531
 msgid "I see daylight! Follow me!"
-msgstr ""
+msgstr "Я вижу свет! За мной!"
 
 #. [message]: speaker=Knutan
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:557
 msgid "Maybe I ain’t been the wisest leader..."
-msgstr ""
+msgstr "Может, я был и не самым мудрым вождём..."
 
 #. [message]: speaker=Kabak
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:568
 msgid "From stone I come... now stone I return..."
-msgstr ""
+msgstr "Из камня вышел... В камень возвращаюсь..."
 
 #. [message]: speaker=Mel Guthrak
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:579
 msgid "I die? But how?"
-msgstr ""
+msgstr "Я умираю? Но как?"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:583
 msgid "A small victory. He will be replaced soon enough; we must still flee."
 msgstr ""
+"Небольшое достижение. Совсем скоро вместо него придут другие. Бежим, не"
+" останавливаемся."
 
 #. [event]
 #. [side]: type=Dark Adept, id=Mal-Tar
@@ -1179,11 +1186,13 @@ msgid ""
 "Hello? My masters said I should see what was making all the noise down in "
 "this old cave..."
 msgstr ""
+"Кто там? Хозяева сказали, что я должен посмотреть, что тут за шум в этой"
+" заброшенной пещере..."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:640
 msgid "We are discovered and surrounded. Now Wesnoth is doomed..."
-msgstr ""
+msgstr "Нас обнаружили и окружили. Веснот отныне обречён..."
 
 #. [scenario]: id=03_An_Unexpected_Appearance
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:17
@@ -14439,4 +14448,5 @@ msgstr ""
 #~ msgstr ""
 #~ "Какая удача найти этот сундук с сокровищами! Здесь две сотни золотых "
 #~ "монет."
+
 
