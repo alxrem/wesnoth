@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-ei\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-09-26 01:43+0300\n"
+"PO-Revision-Date: 2024-09-26 09:16+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -909,7 +909,7 @@ msgstr "Ты можешь меня убить, но я ещё вернусь!"
 #. [scenario]: id=02_The_Escape_Tunnel
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:17
 msgid "The Escape Tunnel"
-msgstr "Побег через тоннель"
+msgstr "Тоннель спасения"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:27
@@ -917,9 +917,8 @@ msgid ""
 "Screams and shouts echoed across the surface as Gweddry rushed his remaining "
 "men into the roughly hewn tunnel. A foul stench wafted up from below..."
 msgstr ""
-"Крики и вопли разнеслись окрест, когда Гведдри вместе с оставшимися бойцами"
-" устремился в грубо высеченный тоннель. Снизу потянуло отвратительным"
-" смрадом..."
+"Визг и вопли разнеслись над землёй, когда Гведри вместе с оставшимися бойцами "
+"бросились в грубо высеченный тоннель. Ужасным смрадом потянуло снизу..."
 
 #. [side]: type=Dwarvish Steelclad, id=Knutan
 #. [side]: type=Dwarvish Lord, id=Pelathsil
@@ -1001,13 +1000,13 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:305
 #| msgid "We must make haste to escape before the undead catch up."
 msgid "We must make haste to escape before the undead catch us."
-msgstr "Нам нужно скорее бежать, чтобы нежить нас не схватила."
+msgstr "Нам нужно поскорей бежать, пока нас не схватила нежить."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:309
 #| msgid "Wait, before we go anywhere — who were those undead?"
 msgid "Wait, before we go anywhere — who were those necromancers?"
-msgstr "Подожди. Пока мы не ушли: что это за некроманты?"
+msgstr "Постойте, прежде, чем мы куда-либо пойдём: что это были за некроманты?"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:313
@@ -1016,16 +1015,16 @@ msgid ""
 "much too powerful for us; perhaps too powerful for all of Wesnoth. We must "
 "flee while I consider how to defeat them."
 msgstr ""
-"Ты серьёзно считаешь, что сейчас самое время это выяснять? Достаточно знать,"
-" что они представляют собой войско, слишком сильное для нас. Возможно,"
-" слишком сильное для кого угодно в Весноте. Мы должны убегать, пока я не"
-" придумаю, как с ними справиться."
+"Считаете, сейчас есть время для расспросов? Довольно знать, что мертвецы собра"
+"лись в армию, которая слишком сильна для нас. И, может быть, сильнее, чем все,"
+" кто есть в Весноте. Нам нужно убегать, пока я не придумаю, как с ними справит"
+"ься."
 
 #. [message]: speaker=unit
 #. speaker is a dwarf
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:332
 msgid "Who goes there?"
-msgstr "Кто идёт?"
+msgstr "Стой, кто идёт?"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:336
@@ -1036,7 +1035,8 @@ msgid ""
 "We are soldiers of the King of Wesnoth. Make way, or help us get past these "
 "trolls."
 msgstr ""
-"Мы солдаты короля Веснота. Пропустите нас или помогите обойти этих троллей."
+"Мы солдаты короля Веснота. Пропустите нас или помогите спастись от этих тролле"
+"й."
 
 #. [message]: speaker=Knutan
 #. in plain English, "Yes, we'll help anyone quarreling with the trolls. But what are you doing down here?"
@@ -1053,8 +1053,8 @@ msgid ""
 "Undead are pursuing us, purging the land of all that lives. You should join "
 "us and flee!"
 msgstr ""
-"За нами гонятся мертвецы. Они стирают с лица земли всё живое. Вам лучше"
-" бежать вместе с нами!"
+"Нас догоняет нежить, стирая всё живое с лица земли. Вам лучше вместе с нами сп"
+"асаться!"
 
 #. [message]: speaker=Knutan
 #. "My clan has lived in these caves for nearly a century. We'll not be scattered now by some sacks of bones"
@@ -1066,7 +1066,7 @@ msgid ""
 "My clan ha’ lived in these caves fer near a century. We’ll no’ be scattered "
 "now by some sacks o’ bones."
 msgstr ""
-"Мой клан живёт в этих пещерах, наверно, с век. Мы не пустимся врассыпуху"
+"Мой клан живёт в этих пещерах, наверно, с век. И мы не станем разбегаться"
 " из-за каких-то там мешков с костями."
 
 #. [message]: speaker=Dacyn
@@ -1079,9 +1079,9 @@ msgid ""
 "of the trolls by going through the dwarves’ tunnel. I doubt they will need "
 "it much longer."
 msgstr ""
-"Да, уверен, что всё будет хорошо. Гведдри, возможно нам удастся избежать"
-" столкновения с основной массой троллей, если мы пройдём тоннелями гномов. Я"
-" сомневаюсь, что они им ещё долго будут нужны."
+"Да, я уверен, что всё будет хорошо. Гведри, возможно нам удастся уклониться от"
+" кучи троллей, если мы пройдём тоннелем гномов. Я сомневаюсь в том, что он им "
+"пригодится надолго."
 
 #. [message]: speaker=Duduril
 #. speaker is a dwarf, currently alone
@@ -1094,7 +1094,8 @@ msgstr "Люди! Вы чё забыли тут в пещерах?"
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:381
 msgid "A horde of undead is pursuing us! You should come with us and escape."
 msgstr ""
-"За нами гонится орда оживших мертвецов! Тебе лучше спасаться вместе с нами."
+"За нами гонится орда оживших мертвецов! Вам будет лучше спасаться вместе с нам"
+"и."
 
 #. [message]: speaker=Duduril
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:385
@@ -1124,7 +1125,7 @@ msgid ""
 "I recognize the enchantment on that quiver. How did trolls come to possess "
 "such an artifact?"
 msgstr ""
-"Я узнаю чары, наложенные на этот колчан. Как, интересно, тролли раздобыли"
+"Я чувствую, что чары наложены на этот колчан. Как, интересно, тролли раздобыли"
 " этот артефакт?"
 
 #. [message]: speaker=Mel Guthrak
@@ -1145,7 +1146,8 @@ msgid ""
 "into the Estmark hills, beyond the borders of Wesnoth. But it is the only "
 "option."
 msgstr ""
-"Слишком самодовольный тон для того, кто нашёл уже открытый ход. Гведдри, нам"
+"Слишком самодовольный тон для того, кто обнаружил уже открытый ход. Гведри, на"
+"м"
 " нужно бежать через восточный выход из этого тоннеля. К сожалению, мы выйдем"
 " из него в холмы Эстмарка за границами Веснота. Но вариантов больше нет."
 
@@ -1190,7 +1192,7 @@ msgid ""
 "Hello? My masters said I should see what was making all the noise down in "
 "this old cave..."
 msgstr ""
-"Кто там? Хозяева сказали, что я должен посмотреть, что тут за шум в этой"
+"Кто там? Хозяева сказали, я должен посмотреть, что тут за шум в этой"
 " заброшенной пещере..."
 
 #. [message]: speaker=Dacyn
@@ -1293,8 +1295,8 @@ msgid ""
 "Don’t be scared, Kala. Look at how haggard they are! I bet the new recruit "
 "can handle them by himself."
 msgstr ""
-"Не бойся, Кала. Посмотри, как они измотаны. Бьюсь об заклад, что с ними"
-" справятся любые новобранцы."
+"Не бойся, Кала. Посмотри, как они измотаны. Готов поспорить, что наш новобране"
+"ц разберётся с ними сам."
 
 #. [message]: speaker=Mal-Tar
 #. Dacyn and Gweddry are going to do this during turn 1, before he even gets a chance to recruit
@@ -1325,7 +1327,7 @@ msgid ""
 "This is a true invasion then? These necromancers mean to conquer Wesnoth "
 "itself?"
 msgstr ""
-"Так что же, это полноценное вторжение? И эти некроманты собрались завоёвывать"
+"Выходит, это полноценное вторжение? И эти некроманты собрались завоёвывать"
 " Веснот?"
 
 #. [message]: speaker=Dacyn
@@ -1361,7 +1363,7 @@ msgstr "Постойте, умоляю, только не это!"
 #. [message]: speaker=Mal-Skraat
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:351
 msgid "I told him he should have studied harder."
-msgstr "А я говорил ему, что учиться надо лучше."
+msgstr "Я говорил ему: учиться надо лучше."
 
 #. [message]: speaker=Mal-Kallat
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:355
@@ -1369,9 +1371,8 @@ msgid ""
 "I wanted to avoid as much battle as I could, but it seems like we have no "
 "choice..."
 msgstr ""
-"Как я хотела бы не ввязываться в драки столько, сколько можно, но выбора у нас"
-","
-" похоже, нет..."
+"Как я хотела бы не ввязываться в драку, пока возможно, но выбора у нас, похоже"
+", нет..."
 
 #. [message]: speaker=Mal-Kallat
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:367
@@ -1784,7 +1785,7 @@ msgstr "Мума"
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:310
 #| msgid "Mal-Skraat"
 msgid "Defeat Mal-Skraat"
-msgstr "Победа над Мал-Скраатом"
+msgstr "Победить Мал-Скраата"
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:323
@@ -1802,8 +1803,10 @@ msgid ""
 "some of the men have started collapsing from sickness. I don’t think we can "
 "march much deeper."
 msgstr ""
-"Ох, смрад от этого болота просто ужасный. Я едва могу разглядеть свой нос, и н"
-"екоторые из моих людей уже корчатся от тошноты. Не думаю, что мы сможем пройти"
+"Ох, смрад от этого болота просто ужасный. Я едва вижу дальше собственного носа"
+", а н"
+"екоторые из моих людей уже сгибаются от тошноты. Не думаю, что мы сможем пройт"
+"и"
 " дальше."
 
 #. [message]: speaker=Dacyn
@@ -1814,7 +1817,8 @@ msgid ""
 "likely been routed or killed, but the outpost itself will still provide a "
 "place to regroup."
 msgstr ""
-"Мы уже ушли очень далеко на восток. Необходимо повернуть на северо-запад и поп"
+"Мы отклонились слишком далеко к востоку. Необходимо повернуть на северо-запад "
+"и поп"
 "ытаться добраться до северной речной заставы Веснота. Солдаты Овэка скорее все"
 "го бежали или убиты, но застава всё ещё остаётся удобным местом для перегруппи"
 "ровки."
@@ -1836,8 +1840,9 @@ msgid ""
 "venturing forth; there is no telling what lurks invisible under the water."
 msgstr ""
 "Здесь очень опасное место для сражения. Следует держаться подальше от болотных"
-" испарений, иначе мы отравимся. И двигаться вперёд нужно очень осторожно. Труд"
-"но сказать, что здесь может скрываться под водой."
+" испарений, иначе мы отравимся. И продвигаться вперёд с огромной осторожностью"
+". Труд"
+"но сказать, что может здесь скрываться под водой."
 
 #. [unit]: id=Safyam, gender=female, type=Dune Burner
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:380
@@ -1875,8 +1880,8 @@ msgid ""
 "It must be here somewhere! I’m telling you, alswdan only grows in swamps, "
 "and this is the grandest one on the continent."
 msgstr ""
-"Он должен быть где-то здесь. Я тебе говорил, что альсдан растёт только на боло"
-"тах а это — самое большое на всём континенте."
+"Они должны быть где-то здесь. Я говорил тебе, альсдан растёт лишь на боло"
+"тах а это — самое большое на континенте."
 
 #. [message]
 #. [message]: speaker=Dacyn
@@ -1917,7 +1922,7 @@ msgid ""
 "lands seeking the rare gwza-alswdan plant."
 msgstr ""
 "О, местные! Надеюсь, вы поможете нам! Я Хахид аль-Али, искусный травник, а это"
-" моя помощница Сафьям. Мы путешествуем по вашим зеалям в поисках редчайшего ра"
+" моя помощница Сафьям. Мы путешествуем по вашим землям в поисках редчайшего ра"
 "стения гза-альсдан."
 
 #. [message]: speaker=Hahid al-Ali
@@ -1934,8 +1939,9 @@ msgid ""
 "cure the draught of death itself!"
 msgstr ""
 "Благодаря снадобью, которое я изготовил из этой чудесной травки, гибельные исп"
-"арения трясины на неё не действуют! Будь у меня больше этих трав, я смог бы со"
-"творить такое сильное противоядие, что оно смогло бы спасити от смерти саму см"
+"арения трясины на неё не действуют! Будь у меня побольше этих трав, я смог бы "
+"со"
+"творить такое сильное лекарство, что оно б спасло от смерти саму см"
 "ерть!"
 
 #. [message]: speaker=Gweddry
@@ -1958,7 +1964,8 @@ msgid ""
 "course, but I’m sure you military-minded folk would have no trouble storming "
 "their walls."
 msgstr ""
-"Хо-хо этот торгаш мне по сердцу! Почему бы и нет? Но если эти мертвецы доставл"
+"Хо-хо этот торгаш мне по сердцу! А почему б и нет? Но если эти мертвецы достав"
+"л"
 "яют вам столько проблем, почему бы не ударить по ним в самой их столице? Сафья"
 "м видела её не так далеко отсюда на востоке. Конечно, мне там делать нечего, н"
 "о вам, военным людям, наверное не составит труда пойти на штурм столичных стен"
@@ -1977,7 +1984,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:549
 msgid "To travel west, defeat Mal-Skraat. <i>(normal)</i>"
-msgstr "Чтобы пройти на запад, победите Мал-Скраата <i>(нормальная)</i>"
+msgstr "Чтобы пройти на запад, победите Мал-Скраата <i>(легче)</i>"
 
 #. [objectives]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:552
@@ -1986,7 +1993,7 @@ msgid ""
 "gold. <i>(challenging)</i>"
 msgstr ""
 "Чтобы пройти на восток, соберите 6 ростков альсдана и заплатите Хахиду аль-Али"
-" $gold_cost золотых <i>(затруднительная)</i>"
+" $gold_cost золотых <i>(сложнее)</i>"
 
 #. [objectives]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:553
@@ -2036,7 +2043,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:559
 msgid "<i>(herbs are spread in all directions around your starting keep)</i>"
-msgstr "<i>(травы можно искать во всех направлениях от начальной крепости)</i>"
+msgstr "<i>(травы могут расти в любом направлении от начальной крепости)</i>"
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:573
@@ -2044,13 +2051,14 @@ msgid ""
 "Any unit that begins or ends its turn adjacent to a swamp hex will become "
 "poisoned. Hahid and Safyam are already immune."
 msgstr ""
-"Каждый отряд, который начнёт или закончит ход в болоте, будет отравлен. Хахид "
-"и Сафьям действию яда не подвержены."
+"Каждый отряд, который начнёт или закончит ход на клетке болота, будет отравлен"
+". На Хахида "
+"и Сафьям яд не действует."
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:591
 msgid "The dunefolk will not follow you to the next scenario."
-msgstr "Народ дюн не пойдёт за вами в следующий сценарий."
+msgstr "Народ пустыни не пойдёт за вами в следующий сценарий."
 
 #. [message]: speaker=unit
 #. TODO for 1.19: make this the male message, and add a separate female one
