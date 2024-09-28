@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-ei\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-09-28 19:26+0300\n"
+"PO-Revision-Date: 2024-09-28 20:42+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -1852,7 +1852,7 @@ msgstr "Сафьям"
 #. [unit]: id=Hahid al-Ali, type=Dune Apothecary
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:396
 msgid "Hahid al-Ali"
-msgstr "Хахид аль-Али"
+msgstr "Хаид аль-Али"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:418
@@ -1921,7 +1921,7 @@ msgid ""
 "extraordinaire, and this is my assistant Safyam. We’ve journeyed to your "
 "lands seeking the rare gwza-alswdan plant."
 msgstr ""
-"О, местные! Надеюсь, вы поможете нам! Я Хахид аль-Али, искусный травник, а это"
+"О, местные! Надеюсь, вы поможете нам! Я Хаид аль-Али, искусный травник, а это"
 " моя помощница Сафьям. Мы путешествуем по вашим землям в поисках редчайшего ра"
 "стения гза-улсудан."
 
@@ -1992,7 +1992,7 @@ msgid ""
 "To travel east, collect 6 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
 msgstr ""
-"Чтобы пройти на восток, соберите 6 ростков улсудана и заплатите Хахиду аль-Али"
+"Чтобы пройти на восток, соберите 6 ростков улсудана и заплатите Хаиду аль-Али"
 " $gold_cost золотых <i>(сложнее)</i>"
 
 #. [objectives]
@@ -2001,7 +2001,7 @@ msgid ""
 "To travel east, collect 5 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
 msgstr ""
-"Чтобы пройти на восток, соберите 5 ростков улсудана и заплатите Хахиду аль-Али"
+"Чтобы пройти на восток, соберите 5 ростков улсудана и заплатите Хаиду аль-Али"
 " $gold_cost золотых <i>(сложнее)</i>"
 
 #. [objectives]
@@ -2010,7 +2010,7 @@ msgid ""
 "To travel east, collect 4 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
 msgstr ""
-"Чтобы пройти на восток, соберите 4 ростка улсудана и заплатите Хахиду аль-Али "
+"Чтобы пройти на восток, соберите 4 ростка улсудана и заплатите Хаиду аль-Али "
 "$gold_cost золотых <i>(сложнее)</i>"
 
 #. [objectives]
@@ -2019,7 +2019,7 @@ msgid ""
 "To travel east, collect 3 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
 msgstr ""
-"Чтобы пройти на восток, соберите 3 ростка улсудана и заплатите Хахиду аль-Али "
+"Чтобы пройти на восток, соберите 3 ростка улсудана и заплатите Хаиду аль-Али "
 "$gold_cost золотых <i>(сложнее)</i>"
 
 #. [objectives]
@@ -2028,7 +2028,7 @@ msgid ""
 "To travel east, collect 2 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
 msgstr ""
-"Чтобы пройти на восток, соберите 2 ростка улсудана и заплатите Хахиду аль-Али "
+"Чтобы пройти на восток, соберите 2 ростка улсудана и заплатите Хаиду аль-Али "
 "$gold_cost золотых <i>(сложнее)</i>"
 
 #. [objectives]
@@ -2037,7 +2037,7 @@ msgid ""
 "To travel east, collect 1 alswdan herb and pay Hahid al-Ali $gold_cost gold. "
 "<i>(challenging)</i>"
 msgstr ""
-"Чтобы пройти на восток, соберите 1 росток улсудана и заплатите Хахиду аль-Али "
+"Чтобы пройти на восток, соберите 1 росток улсудана и заплатите Хаиду аль-Али "
 "$gold_cost золотых <i>(сложнее)</i>"
 
 #. [objective]: condition=win
@@ -2052,7 +2052,7 @@ msgid ""
 "poisoned. Hahid and Safyam are already immune."
 msgstr ""
 "Каждый отряд, который начнёт или закончит ход на клетке болота, будет отравлен"
-". На Хахида "
+". На Хаида "
 "и Сафьям яд не действует."
 
 #. [note]
@@ -2099,19 +2099,19 @@ msgstr ""
 msgid ""
 "Give Hahid $gold_cost gold; assault the undead fortress. <i>(challenging)</i>"
 msgstr ""
-"Отдать Хахиду $gold_cost золотых; напасть на крепость нежити. <i>(затруднитель"
+"Отдать Хаиду $gold_cost золотых; напасть на крепость нежити. <i>(затруднитель"
 "ная)</i>"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:732
 msgid "Give Hahid nothing; return westward towards Wesnoth. <i>(normal)</i>"
 msgstr ""
-"Ничего не отдавать Хахиду; повернуть на запад к Весноту. <i>(нормальная)</i>"
+"Ничего не отдавать Хаиду; повернуть на запад к Весноту. <i>(нормальная)</i>"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:742
 msgid "Give Hahid $gold_extra gold."
-msgstr "Отдать Хахиду $gold_extra золотых."
+msgstr "Отдать Хаиду $gold_extra золотых."
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:759
@@ -3400,7 +3400,7 @@ msgstr "Мне стоило бы действовать быстрее..."
 #. [scenario]: id=06a_Undead_Crossing
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:8
 msgid "Undead Crossing"
-msgstr "Брод Мертвецов"
+msgstr "Переправа мёртвых"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:21
@@ -3409,6 +3409,10 @@ msgid ""
 "known by all and heavily guarded. Hoping to evade detection, Gweddry and his "
 "band made for one of the numerous eastern fords instead..."
 msgstr ""
+"На западе, где Великая Река глубока и широка, было всего несколько всем извест"
+"ных переправ, которые надёжно охранялись. Вместо них, надеясь проскочить незам"
+"етно, Гведри и его отряд направились к одному из многочисленных восточных брод"
+"ов..."
 
 #. [side]: type=Necromancer, id=Mal-un-Karad
 #. male
@@ -3422,6 +3426,8 @@ msgid ""
 "Fine, you can have the south shore! I’m going to stay nice and safe in my "
 "castle."
 msgstr ""
+"Хорошо, можешь оставаться на южном берегу. А я буду в целости и сохранности в "
+"моём замке."
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:115
@@ -3431,33 +3437,31 @@ msgstr "Монстры"
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:124
-#, fuzzy
 #| msgid "An Elven Alliance"
 msgid "Northern Alliance"
-msgstr "Альянс Эльфов"
+msgstr "Северный альянс"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:137
-#, fuzzy
 #| msgid "Mal-un-Karad"
 msgid "Defeat Mal-un-Karad"
-msgstr "Мал-ун-Карад"
+msgstr "Победить Мал-ун-Карада"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:146
 msgid "Rescue Dolburras before he drowns"
-msgstr ""
+msgstr "Спасти Долбураса, пока он не утонул."
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:164
 msgid "Dolburras will take damage every turn until freed."
-msgstr ""
+msgstr "Долбурас будет терять здоровье, пока его не освободят."
 
 #. [unit]: id=Dolburras, type=Dwarvish Steelclad
 #. male
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:181
 msgid "Dolburras"
-msgstr ""
+msgstr "Долбурас"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:211
@@ -3465,12 +3469,14 @@ msgid ""
 "We have done well to avoid conflict with the undead thus far. It is time to "
 "turn northward, toward our goal."
 msgstr ""
+"До сих пор мы весьма успешно избегали столкновений с мертвецами. Самое время п"
+"овернуть на север к нашей цели."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:215
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:593
 msgid "You still have yet to explain more about this goal."
-msgstr ""
+msgstr "Вы до сих пор не объяснили нам, в чём наша цель."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:219
@@ -3478,6 +3484,8 @@ msgid ""
 "Wait, look, a small force of undead have already fortified this ford. We "
 "will have to fight them to cross the Great River."
 msgstr ""
+"Постойте, смотрите, небольшой отряд нежити окопался у этого брода. Нам нужно с"
+"разиться с ними, что бы перейти Великую Реку."
 
 #. [message]: speaker=Dolburras
 #. he's being held captive by a Banebow
@@ -3486,6 +3494,7 @@ msgid ""
 "Let me out ’o this cage ye bag-o-bones! When the Alliance hears abo— "
 "<b>glug</b>"
 msgstr ""
+"Выпустите меня отсюда, мешки с костями! Когда Альянс узна—  <b>буль</b>"
 
 #. [message]: speaker=Mal-un-Karad
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:231
@@ -3493,6 +3502,8 @@ msgid ""
 "Hahahaha! This dwarf is too short to keep his head out of the water. I "
 "wonder how long he’ll last?"
 msgstr ""
+"Ха-ха-ха! Гному не хватает роста, чтобы держать голову над водой. Интересно, с"
+"колько он протянет?"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:235
@@ -3500,6 +3511,8 @@ msgid ""
 "The undead are torturing that dwarf for sport! This shall not stand; we must "
 "rescue him before he drowns!"
 msgstr ""
+"Мертвецы пытают гнома для забавы! Так не должно быть! Мы должны спасти его, по"
+"ка он не захлебнулся!"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:240
@@ -3508,6 +3521,9 @@ msgid ""
 "Ho ho, you know what you need? My patented* elixir of water breathing! <span "
 "color='#BCB088' size='x-small'><i>*not patented</i></span>"
 msgstr ""
+"Хо-хо, знаете, что вам нужно? Мой патентованный* эликсир подводного дыхания! <"
+"span "
+"color='#BCB088' size='x-small'><i>*не патентованный</i></span>"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:244
@@ -3516,20 +3532,23 @@ msgid ""
 "through swamps and shallow water! <span color='#BCB088' size='x-"
 "small'><i>*less effective on cavalry</i></span>"
 msgstr ""
+"Один глоток из этого мерцающего голубого пузырька, и вы будете без помех* пере"
+"двигаться по болотам и мелководью! <span color='#BCB088' size='x-"
+"small'><i>*не так эффективна для кавалерии</i></span>"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:257
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:313
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:638
 msgid "Pleasure doing business with you!"
-msgstr ""
+msgstr "Приятно иметь с вами дело!"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:265
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:321
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:646
 msgid "Suit yourself; more for me!"
-msgstr ""
+msgstr "Ваше дело, мне больше останется!"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:271
@@ -3537,20 +3556,22 @@ msgid ""
 "Supplies are limited so <span strikethrough='true'>call</span> buy now! "
 "<i>(elixirs only last for 1 scenario)</i>"
 msgstr ""
+"Запас ограничен, поэтому <span strikethrough='true'>звоните</span>  берите нем"
+"едленно! <i>(эликсиры действуют в течение одного сценария)</i>"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:273
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:329
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:654
 msgid "Buy the elixir (10 gold)."
-msgstr ""
+msgstr "Купить эликсир (10 золотых)."
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:283
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:339
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:664
 msgid "Leave the elixir for Hahid."
-msgstr ""
+msgstr "Оставить эликсир Хаиду."
 
 #. [message]: speaker=Mal-un-Karad
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:299
