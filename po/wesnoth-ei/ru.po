@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-ei\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-09-28 21:05+0300\n"
+"PO-Revision-Date: 2024-09-29 00:47+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -101,21 +101,19 @@ msgstr "(Средний уровень сложности, 16 сценариев
 #. [about]
 #: data/campaigns/Eastern_Invasion/_main.cfg:108
 msgid "Newest Campaign Version Rewrite"
-msgstr ""
+msgstr "Переделка последних версий кампании"
 
 #. [about]
 #: data/campaigns/Eastern_Invasion/_main.cfg:114
-#, fuzzy
 #| msgid "Campaign Design"
 msgid "Original Campaign Design"
-msgstr "Разработка кампании"
+msgstr "Разработка оригинальной кампании"
 
 #. [about]
 #: data/campaigns/Eastern_Invasion/_main.cfg:120
-#, fuzzy
 #| msgid "Prose and Story Edits"
 msgid "Prose and Story Editing, Code Preparation"
-msgstr "Редактура текстов и графики"
+msgstr "Редактура сюжета и текстов, подготовка кода"
 
 #. [about]
 #: data/campaigns/Eastern_Invasion/_main.cfg:126
@@ -124,14 +122,12 @@ msgstr "Оформление и графика"
 
 #. [about]
 #: data/campaigns/Eastern_Invasion/_main.cfg:144
-#, fuzzy
 #| msgid "Campaign Design"
 msgid "Campaign Redesign Playtesters"
-msgstr "Разработка кампании"
+msgstr "Тестеры смены дизайна кампании"
 
 #. [about]
 #: data/campaigns/Eastern_Invasion/_main.cfg:156
-#, fuzzy
 #| msgid "Campaign Maintenance"
 msgid "Previous Campaign Maintenance"
 msgstr "Поддержка кампании"
@@ -139,7 +135,7 @@ msgstr "Поддержка кампании"
 #. [about]
 #: data/campaigns/Eastern_Invasion/_main.cfg:168
 msgid "Others"
-msgstr ""
+msgstr "Прочие"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:33
@@ -2290,17 +2286,15 @@ msgstr ""
 
 #. [side]: type=Dark Sorcerer, id=Mal-Rikna, gender=female
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:67
-#, fuzzy
 #| msgid "Mal-Uknalu"
 msgid "Mal-Rikna"
-msgstr "Мал-Уклану"
+msgstr "Мал-Рикна"
 
 #. [side]: type=Lich, id=Mal-Vakaz
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:96
-#, fuzzy
 #| msgid "Mal-Sakkat"
 msgid "Mal-Vakaz"
-msgstr "Мал-Саккат"
+msgstr "Мал-Ваказ"
 
 #. [side]: type=Death Knight, id=Rava-Krodaz
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:157
@@ -2309,15 +2303,14 @@ msgstr "Рава-Кродаз"
 
 #. [side]: type=Death Knight, id=Rava-Krovan
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:171
-#, fuzzy
 #| msgid "Rava-Krodaz"
 msgid "Rava-Krovan"
-msgstr "Рава-Кродаз"
+msgstr "Рава-Крован"
 
 #. [scenario]: id=04c_Mal-Ravanals_Capital
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:277
 msgid "Jailer"
-msgstr ""
+msgstr "Тюремщик"
 
 #. [message]: speaker=Gweddry
 #. to a single captive
@@ -3426,8 +3419,8 @@ msgid ""
 "Fine, you can have the south shore! I’m going to stay nice and safe in my "
 "castle."
 msgstr ""
-"Хорошо, можешь оставаться на южном берегу. А я буду в целости и сохранности в "
-"моём замке."
+"Ну, хорошо, южный берег ваш. А я останусь в комфорте и безопасности в "
+"своём замке."
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:115
