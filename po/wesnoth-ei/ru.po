@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-ei\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-09-28 20:42+0300\n"
+"PO-Revision-Date: 2024-09-28 21:05+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -3579,28 +3579,32 @@ msgid ""
 "I don’t know how you Wesnothians got here, but don’t even think about "
 "crossing here unless you want to become fish bait!"
 msgstr ""
+"Не знаю, как здесь оказались Веснотцы, но даже и не думайте перейти здесь реку"
+", если только не собираетесь отправиться кормить рыб!"
 
 #. [message]: speaker=Dolburras
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:337
 msgid "Glug... glug..."
-msgstr ""
+msgstr "Буль... буль..."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:354
 msgid ""
 "I have failed in my duty to protect the helpless. I weep at his passing."
 msgstr ""
+"Я нарушаю свой долго помогать беззащитным! У меня слёзы на глаза наворачиваютс"
+"я от его страданий."
 
 #. [message]: speaker=Dolburras
 #. "Many thanks to you! Feels go to be finally breathing properly again."
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:381
 msgid "Many thanks ta ye! Feels good ta be finally breathin’ proper again."
-msgstr ""
+msgstr "Ну, спасиб вам! Вроде как нормально задышал."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:385
 msgid "How did you come to be captured by these undead?"
-msgstr ""
+msgstr "Как Вы угодили в плен к мертвецам?"
 
 #. [message]: speaker=Dolburras
 #. "Ran into a whole blasted army of them marching from the Swamp of Dread. I think they're headed for Knalga! Someone ought to invade them for a change."
@@ -3609,11 +3613,13 @@ msgid ""
 "Ran into a whole blasted army of ’em marchin’ from the Swamp o’ Dread. I "
 "think they be headed for Knalga! Someone oughta invade them for a change."
 msgstr ""
+"Налетели на целую проклятую их армию, когда шли с Болот Ужаса. Думаю, они напр"
+"авлялись в Кналгу! Должен же кто-то на них напасть для разнообразия."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:394
 msgid "By the Clans! Do these undead mean to conquer all the world?"
-msgstr ""
+msgstr "Во имя Кланов! Эти мертвецы собрались завоевать весь мир?"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:398
@@ -3621,6 +3627,8 @@ msgid ""
 "Dolburras, we are men of the King of Wesnoth, seeking the power to destroy "
 "these foul undead. Will you join us in our quest?"
 msgstr ""
+"Долбурас, мы люди короля Веснота в поисках силы, которая уничтожит этих поганы"
+"х мертвецов. Хотите ли последовать за нами?"
 
 #. [message]: speaker=Dolburras
 #. "Can't hardly go back to Knalga with all of the undead about! Yes, I'll join you."
@@ -3628,16 +3636,17 @@ msgstr ""
 msgid ""
 "Kinna hardly go back ta Knalga with all them undead about! Aye, I’ll join ye."
 msgstr ""
+"Не могу же я вернуться в Кналгу, когда кругом сплошные мертвяки! Пошли, конечн"
+"о."
 
 #. [message]: speaker=Mal-un-Karad
 #. "Wake" doesn’t mean "raise undead" here. The reinforcements are sea creatures, they're alive but hidden underwater.
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:416
 msgid "Time to wake my reinforcements!"
-msgstr "Время пробудить подкрепления!"
+msgstr "Время поднять подкрепления!"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:495
-#, fuzzy
 #| msgid ""
 #| "It seems as if in addition to summoning undead this foul sorcerer has "
 #| "learned to call up monsters from the deep!"
@@ -3645,8 +3654,8 @@ msgid ""
 "In addition to summoning undead, this sorcerer has learned to command swarms "
 "of carnivorous fish!"
 msgstr ""
-"Кажется, этот подлый колдун умеет не только вызывать мертвецов, он знает, "
-"как призывать монстров из глубин!"
+"Этот колдун не только поднимает мёртвых, но и научился управлять стаями хищных"
+" рыб!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:499
@@ -3654,11 +3663,13 @@ msgid ""
 "A clever plan. The fish gnaw away flesh, leaving the skeletons ready for "
 "reanimation. They will make our crossing more difficult."
 msgstr ""
+"Разумный план. Рыбы обгладывают плоть, и оставляют скелеты, которые готовы к о"
+"живлению. И это затруднит нам переход."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:536
 msgid "No! I thought I’d be safe here..."
-msgstr ""
+msgstr "Нет! Я думал, здесь безопасно..."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:622
@@ -3666,17 +3677,18 @@ msgid ""
 "If we intend to save Wesnoth, we must press onward into the mountains. Let "
 "us be off."
 msgstr ""
+"Если хотим спасти Веснот, нам нужно продвигаться в горы. Давайте уходить."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:640
 msgid "Mel Wylyn"
-msgstr ""
+msgstr "Мел Вилин"
 
 #. [message]: speaker=Mal-un-Karad
 #. male Necromancer to female Dark Sorcerer
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:648
 msgid "What took you so long? We were supposed to change shifts days ago!"
-msgstr ""
+msgstr "Что тебя так задержало? Мы должны были смениться несколько дней назад."
 
 #. [message]: speaker=Mel Wylyn
 #. female Dark Sorcerer to male Necromancer
@@ -3685,11 +3697,13 @@ msgid ""
 "Aw, I’ve missed out on the fun! But look at it this way, now they stand no "
 "chance against the two of us."
 msgstr ""
+"О, я пропустила всё веселье! Ну а с другой стороны, теперь у них не будет шанс"
+"а против нас обоих."
 
 #. [scenario]: id=06b_Soradoc
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:10
 msgid "Soradoc"
-msgstr ""
+msgstr "Сорадок"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:24
