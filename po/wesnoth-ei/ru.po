@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-ei\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-09-29 00:47+0300\n"
+"PO-Revision-Date: 2024-09-29 20:15+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -3419,8 +3419,8 @@ msgid ""
 "Fine, you can have the south shore! I’m going to stay nice and safe in my "
 "castle."
 msgstr ""
-"Ну, хорошо, южный берег ваш. А я останусь в комфорте и безопасности в "
-"своём замке."
+"Ну, хорошо, южный берег за вами. А я буду сидеть в своём замке в безоп"
+"асности."
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:115
@@ -3572,8 +3572,8 @@ msgid ""
 "I don’t know how you Wesnothians got here, but don’t even think about "
 "crossing here unless you want to become fish bait!"
 msgstr ""
-"Не знаю, как здесь оказались Веснотцы, но даже и не думайте перейти здесь реку"
-", если только не собираетесь отправиться кормить рыб!"
+"Не знаю, как вы здесь оказались, веснотцы, но даже и не думайте перейти здесь "
+"реку, если только не собираетесь отправиться кормить рыб!"
 
 #. [message]: speaker=Dolburras
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:337
@@ -3636,7 +3636,7 @@ msgstr ""
 #. "Wake" doesn’t mean "raise undead" here. The reinforcements are sea creatures, they're alive but hidden underwater.
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:416
 msgid "Time to wake my reinforcements!"
-msgstr "Время поднять подкрепления!"
+msgstr "Время призвать подкрепления!"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:495
@@ -3647,8 +3647,8 @@ msgid ""
 "In addition to summoning undead, this sorcerer has learned to command swarms "
 "of carnivorous fish!"
 msgstr ""
-"Этот колдун не только поднимает мёртвых, но и научился управлять стаями хищных"
-" рыб!"
+"Этот колдун не только поднимает мёртвых, но и умеет управлять стаями хищных ры"
+"б!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:499
@@ -3656,13 +3656,13 @@ msgid ""
 "A clever plan. The fish gnaw away flesh, leaving the skeletons ready for "
 "reanimation. They will make our crossing more difficult."
 msgstr ""
-"Разумный план. Рыбы обгладывают плоть, и оставляют скелеты, которые готовы к о"
-"живлению. И это затруднит нам переход."
+"Разумный план. Рыбы пожирают плоть, и оставляют скелеты, готовые к оживлению. "
+"И это осложнит нам переход."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:536
 msgid "No! I thought I’d be safe here..."
-msgstr "Нет! Я думал, здесь безопасно..."
+msgstr "Нет! Я надеялся здесь спастись..."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:622
