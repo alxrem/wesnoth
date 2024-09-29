@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-ei\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-09-30 02:08+0300\n"
+"PO-Revision-Date: 2024-09-30 02:11+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -3762,48 +3762,45 @@ msgstr ""
 #. [side]: type=Lancer, id=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:60
 msgid "Yannic"
-msgstr ""
+msgstr "Яник"
 
 #. [side]: type=Dark Sorcerer, id=Mal-Mana, gender=female
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:303
-#, fuzzy
 #| msgid "Mal-Marak"
 msgid "Mal-Mana"
-msgstr "Мал-Марак"
+msgstr "Мал-Мана"
 
 #. [side]: type=Death Knight, id=Naken-alvak
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:377
 msgid "Naken-alvak"
-msgstr ""
+msgstr "Накен-альвак"
 
 #. [scenario]: id=06b_Soradoc
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:437
 msgid "West Barracks"
-msgstr ""
+msgstr "Западные казармы"
 
 #. [scenario]: id=06b_Soradoc
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:438
 msgid "East Barracks"
-msgstr ""
+msgstr "Восточные казармы"
 
 #. [scenario]: id=06b_Soradoc
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:439
 msgid "Citadel"
-msgstr ""
+msgstr "Цитадель"
 
 #. [scenario]: id=06b_Soradoc
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:440
-#, fuzzy
 #| msgid "trample"
 msgid "Temple"
-msgstr "топтание"
+msgstr "Храм"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:489
-#, fuzzy
 #| msgid "Move Dacyn to the stronghold"
 msgid "Move any unit to the northern path."
-msgstr "Отправьте Дацина к цитадели"
+msgstr "Доведите любой отряд до северной тропы"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:495
