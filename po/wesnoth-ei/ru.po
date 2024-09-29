@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-ei\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-09-29 20:15+0300\n"
+"PO-Revision-Date: 2024-09-29 20:40+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -154,12 +154,12 @@ msgstr "Сценарий 1: Тактическое отступление"
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:35
 msgid "Complete ‘<i>The Escape Tunnel</i>’ before the undead arrive."
-msgstr ""
+msgstr "Завершить \"<i>Тоннель спасения</i>\" до прибытия мертвецов."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:35
 msgid "Scenario 2: Speedrun"
-msgstr ""
+msgstr "Сценарий 2: Быстрое завершение"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:37
@@ -167,102 +167,108 @@ msgid ""
 "Complete ‘<i>An Unexpected Appearance</i>’ without killing Mal-Tar, the dark "
 "adept."
 msgstr ""
+"Завершить сценарий \"<i>Неожиданное появление</i>\", не убив Мал-Тара, тёмного"
+" адепта."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:37
 msgid "Scenario 3: Merciful"
-msgstr ""
+msgstr "Сценарий 3: Милосердие"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:39
 msgid "Defeat both the bandit and elven leaders in ‘<i>Elven Interlude</i>’."
 msgstr ""
+"В \"<i>Эльфийской интерлюдии</i>\" победить лидеров и эльфов, и бандитов."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:39
 msgid "Scenario 4a: Scorched Earth"
-msgstr ""
+msgstr "Сценарий 4a: Выжженная земля"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:41
 msgid "Recruit the dunefolk in ‘<i>Ill Humours</i>’."
-msgstr ""
+msgstr "Нанять людей пустыни в \"<i>Болотных испарениях</i>\"."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:41
 msgid "Scenario 4b: Mercenary"
-msgstr ""
+msgstr "Сценарий 4b: Наёмники"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:43
 msgid "Rescue all 6 prisoners from ‘<i>Mal Ravanal’s Capital</i>’."
-msgstr ""
+msgstr "Спасти всех шестерых узников в \"<i>Столице Мал-Раванала</i>\"."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:43
 msgid "Scenario 4c: No (Horse)Man Left Behind"
-msgstr ""
+msgstr "Сценарий 4c: Своих (лошадок) не бросаем"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:45
 msgid "Complete ‘<i>Northern Outpost</i>’ without any peasants dying."
 msgstr ""
+"Завершить сценарий \"<i>Северная застава</i>\", не потеряв ни одного крестьяни"
+"на."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:45
 msgid "Scenario 5: Folk Hero"
-msgstr ""
+msgstr "Сценарий 5: Народный герой"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:47
 msgid ""
 "Defeat the necromancer in ‘<i>Undead Crossing</i>’ before rescuing Dolburras."
 msgstr ""
+"В \"<i>Переправе мертвецов</i>\" победить некроманта до гибели Долбураса."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:47
 msgid "Scenario 6a: A Little Help Here?"
-msgstr ""
+msgstr "Сценарий 6a: Небольшая услуга"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:49
 msgid "Complete ‘<i>Soradoc</i>’ without killing any enemy leaders."
-msgstr ""
+msgstr "Пройти \"<i>Сорадок</i>\" не убив ни одного вражеского лидера."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:49
 msgid "Scenario 6b: Ninja"
-msgstr ""
+msgstr "Сценарий 6b: Ниндзя"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:51
 msgid "Refuse to enslave any ogres in ‘<i>Capturing the Ogres</i>’."
-msgstr ""
+msgstr "Отказаться порабощать огров в \"<i>Ловле огров</i>\"."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:51
 msgid "Scenario 7a: Ogre Rights Advocate"
-msgstr ""
+msgstr "Сценарий 7a: Защитник прав огров"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:53
 msgid "Kill 5 enemy leaders in ‘<i>Ogre Crossing</i>’."
-msgstr ""
+msgstr "Убить 5 вражеских лидеров в \"<i>Переправе огров</i>\"."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:53
 msgid "Scenario 7b: Frenzied"
-msgstr ""
+msgstr "Сценарий 7b: Неистовый"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:55
 msgid "Ally with the dwarves in ‘<i>Xenophobia</i>’."
-msgstr ""
+msgstr "Заключить союз с гномами в \"<i>Ксенофобии</i>\"."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:55
 msgid "Scenario 8: And My Axe"
-msgstr ""
+msgstr "Сценарий 8: Мой топор — твой топор"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:57
@@ -388,7 +394,7 @@ msgstr "Внимание!"
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:34
 msgid "Content note: this campaign has minor depictions of blood and gore."
-msgstr "Уведомление: в кампании встречаются сцены кровавого насилия."
+msgstr "Предупреждение: в кампании встречаются сцены кровавого насилия."
 
 #. [part]
 #. It is 625 YW. Konrad II is king, having reigned since 612.
@@ -1199,7 +1205,7 @@ msgstr "Нас обнаружили и окружили. Веснот отнын
 #. [scenario]: id=03_An_Unexpected_Appearance
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:17
 msgid "An Unexpected Appearance"
-msgstr "Неожиданное Появление"
+msgstr "Неожиданное появление"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:26
