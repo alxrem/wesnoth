@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-ei\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-09-29 20:55+0300\n"
+"PO-Revision-Date: 2024-09-29 22:11+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -273,17 +273,17 @@ msgstr "Сценарий 8: Мой топор — твой топор"
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:57
 msgid "Recruit the wild ogres in ‘<i>Castle in the Ice</i>’."
-msgstr ""
+msgstr "Нанять диких огров в \"<i>Замке во льдах</i>\"."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:57
 msgid "Scenario 9: Guuuh..."
-msgstr ""
+msgstr "Сценарий 9: Гы-ы-ым..."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:59
 msgid "Find the legendary Staff of Power in ‘<i>Dark Sanctuary</i>’."
-msgstr ""
+msgstr "Найти легендарный Посох Власти в \"<i>Тёмном святилище</i>\"."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:59
@@ -2289,6 +2289,8 @@ msgid ""
 "Gweddry marched his band of soldiers ever eastward, deeper and deeper into "
 "the bogs. A great wall of stone loomed before them."
 msgstr ""
+"Гведри повёл свой отряд дальше на восток, всё больше и больше погрязая в болот"
+"ах. И вот, впереди показалась огромная каменная стена."
 
 #. [side]: type=Dark Sorcerer, id=Mal-Rikna, gender=female
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:67
@@ -2322,7 +2324,7 @@ msgstr "Тюремщик"
 #. to a single captive
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:307
 msgid "How did these undead come to imprison you?"
-msgstr ""
+msgstr "Как мертвецам удалось запереть Вас?"
 
 #. [message]: speaker={ID}
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:311
@@ -2331,10 +2333,12 @@ msgid ""
 "captured by ghostly warriors. Their leader has been toying with us, forcing "
 "us to fight for their amusement."
 msgstr ""
+"Это печальная история. Мы с товарищами были на задании, когда попали в засаду "
+"и были схвачены призрачными воинами. Их предводитель забавлялся с нами, застав"
+"лял нас сражаться для их развлечения."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:315
-#, fuzzy
 #| msgid ""
 #| "This sounds dangerous. We will try to free as many of you as possible "
 #| "before we escape from here."
@@ -2342,8 +2346,8 @@ msgid ""
 "No soldier deserves such treatment. We will try to free as many of you as "
 "possible."
 msgstr ""
-"Звучит ужасно. Мы должны попытаться освободить как можно больше ваших людей "
-"перед тем, как уйти отсюда."
+"Ни один солдат не заслуживает такого обращения. Мы попробуем освободить вас, с"
+"кольких сможем."
 
 #. [message]: speaker={ID}
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:319
@@ -2359,22 +2363,26 @@ msgstr ""
 msgid ""
 "A sun paladin! I had no idea there were any of your order still in Wesnoth."
 msgstr ""
+"Паладин солнца! Я и не подозревал, что кто-то из вашего ордена остался в Весно"
+"те!"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:335
 msgid "Aeraery"
-msgstr ""
+msgstr "Эрери"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:342
 msgid ""
 "Thank you! My poor horse could barely breathe trapped among these reeds!"
 msgstr ""
+"Благодарю вас! Моя несчастная лошадь застряла в этом тростнике и уже едва могл"
+"а дышать!"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:344
 msgid "Teoryn"
-msgstr ""
+msgstr "Теорин."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:351
@@ -2382,11 +2390,13 @@ msgid ""
 "Bah, I didn’t need your help! Sooner or later, I would have gotten out of "
 "this cage on my own."
 msgstr ""
+"Ба, мне не нужна была твоя помощь! Рано или поздно я бы выбрался из этой клетк"
+"и сам."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:353
 msgid "Yrthynaenc"
-msgstr ""
+msgstr "Иртинэнц"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:361
@@ -2394,11 +2404,13 @@ msgid ""
 "My thanks, friends. I had despaired of ever again riding free amongst the "
 "living."
 msgstr ""
+"Благодарю, друг мой. Я уже и не надеялся когда-нибудь оказаться на свободе сре"
+"ди живых."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:362
 msgid "Inyc"
-msgstr ""
+msgstr "Иниц"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:369
