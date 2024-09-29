@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-ei\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-09-29 20:40+0300\n"
+"PO-Revision-Date: 2024-09-29 20:55+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -189,7 +189,7 @@ msgstr "Сценарий 4a: Выжженная земля"
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:41
 msgid "Recruit the dunefolk in ‘<i>Ill Humours</i>’."
-msgstr "Нанять людей пустыни в \"<i>Болотных испарениях</i>\"."
+msgstr "Нанять народ пустыни в \"<i>Болотных испарениях</i>\"."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:41
