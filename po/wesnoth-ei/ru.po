@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-ei\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-09-29 22:11+0300\n"
+"PO-Revision-Date: 2024-09-30 02:08+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -2418,11 +2418,13 @@ msgid ""
 "Vengeance upon the undead! I will make them pay for the abuse they’ve "
 "inflicted upon us!"
 msgstr ""
+"Отмщение мертвецам! Я заставлю их заплатить за все обиды, которые они нам прич"
+"инили!"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:371
 msgid "Vobreddaent"
-msgstr ""
+msgstr "Вобредент"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:378
@@ -2430,6 +2432,8 @@ msgid ""
 "Truly you are heroes of legend to have fought so deep past the undead! I am "
 "forever in your debt."
 msgstr ""
+"Воистину вы легендарные герои, раз смогли пробиться так далеко во владения неж"
+"ити. Я навсегда у вас в долгу."
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:414
@@ -2439,20 +2443,18 @@ msgstr "Бегите, победив одного из тёмных волшеб
 #. [objective]: condition=win
 #. when initially shown there are 6 imprisoned knights, the text doesn't change as they're freed
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:420
-#, fuzzy
 #| msgid "Release the other prisoners"
 msgid "Rescue the imprisoned knights"
-msgstr "Освободите других узников"
+msgstr "Освободите пленных рыцарей"
 
 #. [unit]: type=Terraent, id=Terraent
 #. the unique unit type is a Paladin variantion
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:447
 msgid "Terraent"
-msgstr "Терраент"
+msgstr "Террент"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:465
-#, fuzzy
 #| msgid ""
 #| "The Bitter Swamp’s ill reputation is, it seems, well merited. Mal-"
 #| "Ravanal’s capital lies before us!"
@@ -2460,8 +2462,8 @@ msgid ""
 "The Bitter Swamp’s ill reputation is, it seems, well merited. Mal-Ravanal’s "
 "fortress lies before us."
 msgstr ""
-"Горькая Трясина, похоже, заслуженно пользуются дурной славой. Перед нами "
-"столица Мал-Раванала!"
+"Горькая трясина вполне заслужила свою дурную славу. Перед нами крепость Мал-Ра"
+"ванала."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:469
@@ -2472,6 +2474,10 @@ msgid ""
 "Mal-Ravanal’s skeletal body, their spirit would remain and simply possess "
 "another."
 msgstr ""
+"Да, и по пятам за нами идёт войско нежити, включая эту занозу Мал-Скраата. Что"
+" именно Вы хотите предпринять? Мы не сможем победить с теми скудными средствам"
+"и, которые сейчас имеем. Даже если мы уничтожим костяное тело Мал-Раванала, ег"
+"о дух останется и просто переселится в другое."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:473
@@ -2480,16 +2486,19 @@ msgid ""
 "we are already in the enemy capital and I believe we have a duty to hamper "
 "the undead however we can. And look, we are not the only ones fighting here!"
 msgstr ""
+"Для отступления нам нужно уничтожить одного из тёмных чародеев, которые идут з"
+"а нами. Но мы уже достигли вражеской столицы и я считаю своим долгом нанести н"
+"ежити как только больший ущерб. И посмотрите, с ними бьёмся не только мы!"
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:484
 msgid "In the name of all that is holy, Lich, I will strike you down!"
-msgstr ""
+msgstr "Во имя всего святого, лич, я сокрушу тебя!"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:488
 msgid "Try it, fleshbag."
-msgstr ""
+msgstr "Попробуй, мясной бурдюк."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:572
@@ -2501,7 +2510,7 @@ msgstr "Мал-Раванал"
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:575
 msgid "That tickled a bit!"
-msgstr ""
+msgstr "Это было щекотно!"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:581
@@ -2509,6 +2518,8 @@ msgid ""
 "Well paladin, this has been amusing, but apparently we have a new group of "
 "guests to entertain. Back into the cage with you."
 msgstr ""
+"Что ж, паладин, с тобою было весело, но, как я посмотрю, к нам прибыли развлеч"
+"ься другие посетители. Возвращайся в свою клетку."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:588
@@ -2516,21 +2527,23 @@ msgid ""
 "Gratitude to you and yours, pious warriors! Now let us join forces to free "
 "my companions and cleanse this place in holy fire!"
 msgstr ""
+"Благодарю вас всех и каждого, благочестивые воины. Теперь давайте объединим на"
+"ши силы, чтобы освободить моих товарищей и выжечь это место священным огнём!"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:613
 msgid "Silly fleshbags, did you come just to nourish our swamp?"
-msgstr ""
+msgstr "Глупые мясные бурдюки, вы пришли просто удобрить наше болото?"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:650
 msgid "Did you really think that your crude weapons would work?"
-msgstr ""
+msgstr "Ты действительно думаешь, что это примитивное оружие подействует?"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:654
 msgid "Mal-Ravanal cannot be defeated right now. We must flee!"
-msgstr ""
+msgstr "Сейчас мы не в состоянии справиться с Мал-Раваналом. Нужно бежать!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:669
@@ -2538,13 +2551,15 @@ msgid ""
 "Gweddry, we should not be here. They are merely toying with us right now, "
 "but all will be lost if Mal-Ravanal finds me amongst you!"
 msgstr ""
+"Гведри, нам здесь не место. Пока что они просто играют с нами, но если Мал-Рав"
+"анал увидит меня с вами, нам конец!"
 
 #. [message]: speaker=Mal-Ravanal
 #. Ravanal and Dacyn perk up a bit when talking to or referring to each other
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:694
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:683
 msgid "Wait a moment! That nauseating holier-than-thou aura..."
-msgstr ""
+msgstr "Подождите-ка. Пованивает аурой святоши..."
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:698
@@ -2553,6 +2568,9 @@ msgid ""
 "... ah, Dacyn, what an unexpected surprise! Last time we spoke, you blasted "
 "me before I could even finish telling you about my research."
 msgstr ""
+"... а, Дацин! Какой неожиданный сюрприз! Когда мы виделись в последний раз, ты"
+" распылил меня прежде, чем я закончил рассказывать тебе о результатах моих изы"
+"сканий."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:702
@@ -2561,6 +2579,8 @@ msgid ""
 "If only it had ended back then. Stop this madness. Let this torment come to "
 "an end."
 msgstr ""
+"О, если бы это закончилось тогда. Останови это безумие. Пусть эти муки прекрат"
+"ятся."
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:709
@@ -2570,6 +2590,9 @@ msgid ""
 "worry, if your goal was to become one of these mindless thralls, you came to "
 "the right place. You know what they say. No brain, no pain!"
 msgstr ""
+"Муки? Какие муки? Это ты выглядишь несчастным. Но не волнуйся. Если ты стремил"
+"ся стать один их этих безмозглых рабов, то ты попал по адресу. Как говорится, "
+"нет мозгов, нет проблем!"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:810
@@ -2577,15 +2600,16 @@ msgid ""
 "Don’t worry, old friend, these ghosts will take good care of you. Just stay "
 "still for a bit..."
 msgstr ""
+"Не беспокойся, старый друг. Эти призраки хорошо о тебе позаботятся. Просто нем"
+"ного потерпи..."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:819
 msgid "You were <b>friends</b> with this lich?!?"
-msgstr ""
+msgstr "Вы были <b>друзьями</b> с этим личем?!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:823
-#, fuzzy
 #| msgid ""
 #| "Yes... We studied together many years ago. He was most powerful then, but "
 #| "the dark power I sense today is far greater. We must escape immediately!"
@@ -2594,24 +2618,26 @@ msgid ""
 "potent back then, but I fear it has become far greater now. None of you "
 "stand a chance; we must escape immediately!"
 msgstr ""
-"Да... Мы вместе учились много лет назад. Он был очень силён тогда, но тёмная "
-"сила, что я чую сейчас, много мощнее. Надо бежать немедленно!"
+"Да... Мы учились вместе много лет назад. Раван уже тогда был могущественнее вс"
+"ех, и, я боюсь, теперь он стал ещё сильнее. У нас нет шансов, мы должны бежать"
+" немедленно!"
 
 #. [message]: speaker=Mal-Rikna
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:868
 msgid "Help, please, I never even liked that lich!"
-msgstr ""
+msgstr "Пожалуйста спасите, мне никогда не нравился этот лич!"
 
 #. [message]: speaker=Mal-Skraat
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:872
 msgid "Useless mage, stop dying and start avenging my sister!"
 msgstr ""
+"Дурацкий маг, отставить умирать, и присоединяйся к мести за мою сестру!"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:893
 msgid ""
 "Quickly, make for the western edge of the swamp! We have to get out of here!"
-msgstr ""
+msgstr "Быстрее к западному краю болота! Нам нужно убираться прочь!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:897
@@ -2620,6 +2646,9 @@ msgid ""
 "to escape with our lives. We must make with all haste to whatever remains of "
 "Owaec’s northern outpost and hope we are not pursued."
 msgstr ""
+"Я разве не предупреждал? Дурацкая была идея приходить сюда. Нам очень повезло,"
+" что мы остались живы. Теперь нам нужно поспешить к тому, что, может быть, ост"
+"алось от северной заставы Овэка, надеясь, что нас не догонят."
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:922
@@ -2627,6 +2656,8 @@ msgid ""
 "We cannot leave my companions behind! They have suffered grievously already "
 "and will surely be slain."
 msgstr ""
+"Мы не можем оставить моих товарищей! Они уже немало пострадали, теперь же их н"
+"аверняка убьют!"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:931
@@ -2634,6 +2665,8 @@ msgid ""
 "Save yourselves and do not despair! As long as there are those who resist "
 "the darkness, hope will always remain."
 msgstr ""
+"Берегите себя и не отчаивайтесь! Пока есть те, кто противостоит кромешной тьме"
+", нам есть на что надеяться!"
 
 #. [scenario]: id=05_Northern_Outpost
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:8
