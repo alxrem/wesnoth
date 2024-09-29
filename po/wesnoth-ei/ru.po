@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-ei\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-09-30 02:11+0300\n"
+"PO-Revision-Date: 2024-09-30 02:15+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -3800,7 +3800,7 @@ msgstr "Храм"
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:489
 #| msgid "Move Dacyn to the stronghold"
 msgid "Move any unit to the northern path."
-msgstr "Доведите любой отряд до северной тропы"
+msgstr "Доведите любой отряд до северной тропы."
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:495
