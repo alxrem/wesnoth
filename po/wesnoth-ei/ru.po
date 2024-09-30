@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-ei\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-09-30 02:15+0300\n"
+"PO-Revision-Date: 2024-09-30 08:33+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -288,88 +288,90 @@ msgstr "Найти легендарный Посох Власти в \"<i>Тём
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:59
 msgid "Scenario 10: Brains"
-msgstr ""
+msgstr "Сценарий 10: Мозги"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:61
 msgid "Find the Ring of Invisibility in ‘<i>Captured</i>’."
-msgstr ""
+msgstr "Найти Кольцо Невидимости в сценарии \"<i>В плену</i>\"."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:61
 msgid "Scenario 11: And In The Darkness Bind Them"
-msgstr ""
+msgstr "Сценарий 11: Во тьме свяжи их"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:63
 msgid "Complete ‘<i>Evacuation</i>’ by defeating all enemy leaders."
-msgstr ""
+msgstr "Завершить \"<i>Освобождение</i>\" уничтожением всех вражеских лидеров."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:63
 msgid "Scenario 12: Plan B"
-msgstr ""
+msgstr "Сценарий 12: План Б"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:65
 msgid "Recruit Gaennell, the dark adept, in ‘<i>Spoils of War</i>’."
-msgstr ""
+msgstr "Завербовать тёмного адепта Гэннел в \"<i>Военных трофеях</i>\"."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:65
 msgid "Scenario 13: Oath of Redemption"
-msgstr ""
+msgstr "Сценарий 13: Присяга искупления"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:67
 msgid "Read the story of the Clans’ defeat in ‘<i>The Drowned Plains</i>’."
-msgstr ""
+msgstr "Прочитать историю падения Кланов в \"<i>Затопленных равнинах</i>\"."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:67
 msgid "Scenario 14: Historian"
-msgstr ""
+msgstr "Сценарий 14: Историк"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:69
 msgid ""
 "Complete ‘<i>Eleventh Hour</i>’ with no recalling and no droppable items."
 msgstr ""
+"Завершить \"<i>Одиннадцатый час</i>\" без призывов и выпадающих предметов."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:69
 msgid "Scenario 16: Alternate History"
-msgstr ""
+msgstr "Сценарий 16: Альтернативная история"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:71
 msgid "Kill no enemies before defeating Mal-Ravanal in ‘<i>The Duel</i>’."
-msgstr ""
+msgstr "Никого не убить до победы над Мал-Раваналом в \"<i>Дуэли</i>\"."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:71
 msgid "Scenario 17a: Pacifist"
-msgstr ""
+msgstr "Сценарий 17a: Пацифист"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:73
 msgid "Kill all enemies before defeating Mal-Ravanal in ‘<i>All-In</i>’."
 msgstr ""
+"Уничтожить всех врагов перед победой над Мал-Раваналом в \"<i>Ва-банк</i>\"."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:73
 msgid "Scenario 17b: Warmonger"
-msgstr ""
+msgstr "Сценарий 17b: Подстрекатель"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:75
 msgid "Complete the secret bonus scenario."
-msgstr ""
+msgstr "Пройти дополнительный секретный сценарий."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:75
 msgid "Scenario 99: Haw, Haw, Haw"
-msgstr ""
+msgstr "Сценарий 99: Ха-ха-ха"
 
 #. [lua]: wml_actions.bandit_village_capture
 #: data/campaigns/Eastern_Invasion/lua/bandits.lua:84
@@ -7657,7 +7659,7 @@ msgstr ""
 #. [scenario]: id=13_Spoils_of_War
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:8
 msgid "Spoils of War"
-msgstr ""
+msgstr "Военные трофеи"
 
 #. [part]
 #. newlines at the beginning help to (depending on the screne size) center this vertically. The space at the end stops the last letter from getting cut off
