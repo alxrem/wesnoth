@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-ei\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-09-30 08:44+0300\n"
+"PO-Revision-Date: 2024-09-30 09:08+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -3761,6 +3761,10 @@ msgid ""
 "prosperous and well-fortified border town. Gweddry and his band approached "
 "cautiously, hoping to reunite with Wesnoth’s armies."
 msgstr ""
+"Основанный Короной и управляемый Кланами Наездников Сорадок контролировал стра"
+"тегически важное слияние Великой реки и реки Вельдин. Со времён основания в пе"
+"рвые дни Веснота Сорадок вырос в процветающий и хорошо укреплённый город. Гвед"
+"ри и его отряд подходили осторожно, надеясь на соединение с армией Веснота."
 
 #. [side]: type=Lancer, id=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:60
@@ -3811,6 +3815,8 @@ msgid ""
 "Defeat as many enemy leaders as possible, and then move any unit to the "
 "northern path (easier next scenario)"
 msgstr ""
+"Уничтожить столько вражеских лидеров, сколько получится, а потом довести любой"
+" отряд до северной тропы (будет проще в следующем сценарии)"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:506
@@ -3818,6 +3824,8 @@ msgid ""
 "Move Owaec next to Yannic, and then protect Yannic until you move any unit "
 "to the northern path (bonus item next scenario)"
 msgstr ""
+"Провести Овэка за Яником, а потом защищать Яника, пока какой-нибудь отряд не д"
+"ойдёт до северной тропы (дополнительный предмет в следующем сценарии)."
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:520
@@ -3825,11 +3833,13 @@ msgid ""
 "Protect Yannic until you move any unit to the northern path (bonus item next "
 "scenario)"
 msgstr ""
+"Защищать Яника, пока какой-нибудь отряд не дойдёт до северной тропы (дополните"
+"льный предмет в следующем сценарии)."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:555
 msgid "The air is filled with smoke. I fear the town is already lost."
-msgstr ""
+msgstr "Воздух пахнет гарью. Боюсь, город уже потерян."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:559
@@ -3838,6 +3848,8 @@ msgid ""
 "loyal to a fault. I know many of them personally! They would hold the city "
 "to their dying breaths."
 msgstr ""
+"Безумие! Как такой город может пасть? Гарнизон отважен и предан до последнего."
+" Каждого из них я знаю лично! Они будут удерживать город до последнего вздоха."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:563
@@ -3845,11 +3857,13 @@ msgid ""
 "Were you expecting a victory parade? Soradoc will be the first of many if we "
 "cannot accomplish our goal."
 msgstr ""
+"Вы ожидали победного парада? Сорадок будет лишь первым из многих, если мы не д"
+"остигнем своей цели."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:567
 msgid "Wait, look, the flag of Wesnoth still flies over the western barracks!"
-msgstr ""
+msgstr "Стойте, смотрите, флаг Веснота реет над западными казармами!"
 
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:577
@@ -3858,6 +3872,9 @@ msgid ""
 "already control most of the city. We’re hiding our wounded in the temple, "
 "but if we lose the western quarter as well, I fear that no one will escape."
 msgstr ""
+"Вы наше подкрепление? Вельдин обещал нам помощь несколько дней назад! Нежить у"
+"же захватила большую часть города. В храме укрываются наши раненые, и я боюсь,"
+" что если мы потеряем и западный квартал, живым не уйдёт никто."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:581
@@ -3866,6 +3883,9 @@ msgid ""
 "rescue the garrison! If we can defeat this wave of undead, they may yet have "
 "time to evacuate."
 msgstr ""
+"Во имя Кланов, кто-то ещё жив! Мы должны поторапливаться, если хотим защитить "
+"гарнизон. Если мы сможем отразить эту волну мертвецов, у них будет шанс спасти"
+"сь."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:585
@@ -3873,6 +3893,8 @@ msgid ""
 "I agree, but... there are many powerful undead besieging the city. Do we "
 "have the strength to defeat them all?"
 msgstr ""
+"Согласен, но... Город осаждает много могущественной нежити. Хватит ли нам сил "
+"со всеми справиться?"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:589
@@ -3880,6 +3902,9 @@ msgid ""
 "Maybe, maybe not. Remember that our true goal lies far to the north. Nothing "
 "we do here today will more than inconvenience Mal-Ravanal."
 msgstr ""
+"Может да, а может нет. Помните, что истинная наша цель находится на севере. Ни"
+"что из того, что мы можем сделать сейчас, не может серьёзно повредить Мал-Рава"
+"налу."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:597
@@ -3888,11 +3913,14 @@ msgid ""
 "can at least slip past the undead and escape, though they will certainly "
 "follow us."
 msgstr ""
+"Нам нужно двигаться на север как можно быстро. Если мы не можем спасти Сорадок"
+", мы можем хотя бы проскользнуть мимо нежити и уйти, хотя они, конечно, бросят"
+"ся вдогонку."
 
 #. [message]: speaker=Naken-alvak
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:606
 msgid "Intruders... living men... from the southeast..."
-msgstr ""
+msgstr "Нарушители... Живые... С юго-востока..."
 
 #. [message]: speaker=Mal-Talar
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:613
@@ -3900,19 +3928,22 @@ msgid ""
 "Ah, it’s the garrison that escaped me back at that border outpost. They "
 "won’t get lucky again this time!"
 msgstr ""
+"А, это отряд, который ускользнул от нас на пограничной заставе. На этот раз уд"
+"ача им не улыбнётся!"
 
 #. [message]: speaker=Mal-Mana
 #. Mal-Mana dispatches a bat messenger to say she's spotted Dacyn.
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:621
 msgid "And see who is among them! I shall inform Mal-Ravanal at once."
-msgstr ""
+msgstr "И посмотрите, кто там с ними! Нужно уведомить Мал-Раванала немедленно."
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:673
+#, fuzzy
 msgid ""
 "Dacyn, is that you again? So this is where you ran off to. I would recognize "
 "your nauseating aura anywhere."
-msgstr ""
+msgstr "Дацин, и снова ты? "
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:677
