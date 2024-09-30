@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-ei\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-09-30 08:33+0300\n"
+"PO-Revision-Date: 2024-09-30 08:44+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -3659,7 +3659,8 @@ msgid ""
 "Ran into a whole blasted army of ’em marchin’ from the Swamp o’ Dread. I "
 "think they be headed for Knalga! Someone oughta invade them for a change."
 msgstr ""
-"Налетели на целую проклятую их армию, когда шли с Болот Ужаса. Думаю, они напр"
+"Налетели на целую проклятую их армию, когда шли с Болота Ужаса. Думаю, они нап"
+"р"
 "авлялись в Кналгу! Должен же кто-то на них напасть для разнообразия."
 
 #. [message]: speaker=Owaec
@@ -3689,7 +3690,7 @@ msgstr ""
 #. "Wake" doesn’t mean "raise undead" here. The reinforcements are sea creatures, they're alive but hidden underwater.
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:416
 msgid "Time to wake my reinforcements!"
-msgstr "Время призвать подкрепления!"
+msgstr "Время пробудить подкрепления!"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:495
