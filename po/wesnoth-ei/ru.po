@@ -2980,13 +2980,6 @@ msgstr ""
 "Прекрасно. Овэк, мы поможем тебе справиться с бандитами. Дацин, прошу Вас, нас"
 "ылайте Ваши чары."
 
-#. [message]: speaker=narrator
-#: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:545
-#, fuzzy
-#| msgid "You may now recruit horsemen!"
-msgid "(You may now recruit Horsemen and Cavalrymen!)"
-msgstr "Теперь вы можете нанимать всадников!"
-
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:602
 msgid "Pull aside that old rug, will ya? I think I see somethin’..."
@@ -3653,14 +3646,6 @@ msgstr ""
 msgid "Glug... glug..."
 msgstr "Буль... буль..."
 
-#. [message]: speaker=Owaec
-#: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:354
-msgid ""
-"I have failed in my duty to protect the helpless. I weep at his passing."
-msgstr ""
-"Я нарушаю свой долго помогать беззащитным! У меня слёзы на глаза наворачиваютс"
-"я от его страданий."
-
 #. [message]: speaker=Dolburras
 #. "Many thanks to you! Feels go to be finally breathing properly again."
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:381
@@ -3671,17 +3656,6 @@ msgstr "Ну, спасиб вам! Вроде как нормально зады
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:385
 msgid "How did you come to be captured by these undead?"
 msgstr "Как Вы угодили в плен к мертвецам?"
-
-#. [message]: speaker=Dolburras
-#. "Ran into a whole blasted army of them marching from the Swamp of Dread. I think they're headed for Knalga! Someone ought to invade them for a change."
-#: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:390
-msgid ""
-"Ran into a whole blasted army of ’em marchin’ from the Swamp o’ Dread. I "
-"think they be headed for Knalga! Someone oughta invade them for a change."
-msgstr ""
-"Налетели на целую проклятую их армию, когда шли с Болота Ужаса. Думаю, они нап"
-"р"
-"авлялись в Кналгу! Должен же кто-то на них напасть для разнообразия."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:394
@@ -3738,26 +3712,10 @@ msgstr ""
 msgid "No! I thought I’d be safe here..."
 msgstr "Нет! Я надеялся здесь спастись..."
 
-#. [message]: speaker=Dolburras
-#: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:491
-msgid "Glug... glug..."
-msgstr ""
-
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:520
 msgid ""
 "I have failed in my duty to protect the helpless. I weep at his passing."
-msgstr ""
-
-#. [message]: speaker=Dolburras
-#. "Many thanks to you! Feels go to be finally breathing properly again."
-#: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:559
-msgid "Many thanks ta ye! Feels good ta be finally breathin’ proper again."
-msgstr ""
-
-#. [message]: speaker=Gweddry
-#: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:563
-msgid "How did you come to be captured by these undead?"
 msgstr ""
 
 #. [message]: speaker=Dolburras
@@ -3766,25 +3724,6 @@ msgstr ""
 msgid ""
 "Ran into a whole blasted army of ’em marchin’ from the Swamp o’ Dread. I "
 "think they be headed for Knalga! Someone oughta invade them for a change."
-msgstr ""
-
-#. [message]: speaker=Owaec
-#: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:572
-msgid "By the Clans! Do these undead mean to conquer all the world?"
-msgstr ""
-
-#. [message]: speaker=Gweddry
-#: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:576
-msgid ""
-"Dolburras, we are men of the King of Wesnoth, seeking the power to destroy "
-"these foul undead. Will you join us in our quest?"
-msgstr ""
-
-#. [message]: speaker=Dolburras
-#. "Can't hardly go back to Knalga with all of the undead about! Yes, I'll join you."
-#: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:581
-msgid ""
-"Kinna hardly go back ta Knalga with all them undead about! Aye, I’ll join ye."
 msgstr ""
 
 #. [message]: speaker=Dacyn
